@@ -1,0 +1,5 @@
+1. Write a program to sort a list without using list functions
+2. Write a program to find the minimum maximum second smallest and second largest number of a list
+3. Write a program to check if a number is palindrome or not if it is return True if not return False
+4. Write a program to take input of a number and check if the number is in the list or not if its is count how many times it was repeated
+5. Write a program to copy a list into another list without using list functions
