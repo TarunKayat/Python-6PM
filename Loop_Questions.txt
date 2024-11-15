@@ -1,0 +1,28 @@
+1. Write a program to find the factorial value of any number entered through the keyboard. 
+
+2. Write a program to take input of a number and calculate the sum of all natural numbers till it
+
+3. Write a program to print all the ASCII values and their equivalent characters using a while loop. The ASCII values vary from 0 to 255. 
+
+4. Write a program to take input of a number and print it’s table
+
+5. Write a program to take input of a number and find all even and odd numbers till it.
+
+6. Write a program to take input of a number and calculate the sum of all even and odd numbers till it
+
+7. Write a program to take input of a number and reverse it Example :- 56734 - 43765
+
+8. Write a program to take input of a number and count the number of Digits of it
+
+9. Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered.
+
+10. Write a program to take an input and check whether the number is palindrome or not
+
+11. Write a program to take an input and check whether the number is Armstrong or not
+
+12. Write program to take an input and check whether the number is Prime or Composite
+
+13. Write a program to take an input and print the Fibonacci series till the number
+
+14. Write a program to take input of two numbers and print the tables of all numbers between the two numbers
+
