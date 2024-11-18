@@ -3,3 +3,10 @@
 3. Write a program to check if a number is palindrome or not if it is return True if not return False
 4. Write a program to take input of a number and check if the number is in the list or not if its is count how many times it was repeated
 5. Write a program to copy a list into another list without using list functions
+
+List
+1. Write a program to take input of a number and check if that number is in the list if it is count how many times it was repeated
+2. Write a program to take sort a given list
+3. Write a program to print all prime number of a list
+4. Write a program to take input of a number if the number is in the list check if it is palindrome or not
+5. Write a program to print all unique elements of a list
