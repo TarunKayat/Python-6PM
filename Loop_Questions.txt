@@ -26,3 +26,4 @@
 
 14. Write a program to take input of two numbers and print the tables of all numbers between the two numbers
 
+15. Write a program to take input of a number and check for even and odd digits in that number example :- 5352 - 5 odd, 3 odd, 5 odd, 2 even
