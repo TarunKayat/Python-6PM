@@ -9,5 +9,5 @@ for i in range(1, len(li)):
     if li[i] > Max:
         Max = li[i] 
 
-print(f"The Minimum number is list is: {Min}")
-print(f"The Maximum number is list is: {Max}")
+print(f"The Minimum number in list is: {Min}")
+print(f"The Maximum number in list is: {Max}")
